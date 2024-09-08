@@ -20,14 +20,12 @@ DotTalk Application (Made with Unity)
 - Extensibility in multiple languages
 
 # Demo Clips (in Korean)
-- [Presentation](https://youtu.be/q3owhjKpgCw)
 - [Demo](https://youtu.be/Y3l4jioiRts)
 
 # Members
 
 - Sky Kim (Software Engineer, Unity Technologies Korea)
-- Paul Kim (Hardware Engineer, Samsung Electronics)
-- Evan Yoon (Designer, Breathings)
+- Doyoung Kim (Firmware Engineer,Maker )
 
 # Acknowledgement
 
@@ -35,4 +33,4 @@ DotTalk Application (Made with Unity)
 
 # Contact Info
 
-- Sky Kim (loenahmik@gmail.com)
+- Doyoung Kim  (felixkim0719@gmail.com)
